@@ -1,7 +1,7 @@
 # Controle de Validades
 
  Programa para fazer o controle de validades de mercadorias, tendo como funcionalidades: 
- 
+
 	- Cadastro de validade;
 	- Relatório diário;
 	- Relatório por Periodo;
